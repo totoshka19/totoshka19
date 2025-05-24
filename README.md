@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Frontend developer
+## Frontend developer
 
 I specialize in creating modern, adaptive interfaces using React, TypeScript and Redux.
 
