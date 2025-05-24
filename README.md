@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##Frontend developer
+
+I specialize in creating modern, adaptive interfaces using React, TypeScript and Redux.
+
 ![Codewars](https://github.r2v.ch/codewars?user=Anna%20Kapitanova&name=true&top_languages=true&theme=purple_dark)
 
 <!--
